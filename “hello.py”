@@ -1,0 +1,5 @@
+#Firstname Lastname
+#11/12/2026
+#Asimple python script to print a message
+
+print("Hello, World")
