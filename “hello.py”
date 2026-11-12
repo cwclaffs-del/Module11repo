@@ -2,4 +2,10 @@
 #11/12/2026
 #Asimple python script to print a message
 
+#Firstname Lastname
+#11/12/2026
+#added new message
+
 print("Hello, World")
+
+print("Welcome to Github!")
